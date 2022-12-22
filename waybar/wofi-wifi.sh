@@ -1,0 +1,1 @@
+/home/pietro/.config/waybar/wofi-wifi.sh
